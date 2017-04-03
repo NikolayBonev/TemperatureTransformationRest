@@ -1,0 +1,7 @@
+*.class
+build/
+target/
+Servers/
+RemoteSystemsTempFiles/
+.metadata/
+.recommenders/
